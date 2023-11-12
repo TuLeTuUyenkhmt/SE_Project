@@ -3,4 +3,6 @@ Bài tập lớn môn Kỹ thuật phần mềm
 
 Danh sách các thành viên:
 Từ Lê Tú Uyên (K15 - KHMT)
+Vũ Tuấn Anh (K16 - CNTT)
+Lê Quang Huy (K16 - CNTT)
 
